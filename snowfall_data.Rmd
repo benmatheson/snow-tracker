@@ -44,6 +44,7 @@ install.packages('purr')
 install.packages('gghighlight')
 install.packages('plotly')
 install.packages('knitr')
+install.packages('httr')
 
 
 library(tidyr)
@@ -62,6 +63,7 @@ library(plotly)
 # library(ggthemr)
 # library(RColorBrewer)
 library(knitr)
+library(httr)
 
 
 # 
