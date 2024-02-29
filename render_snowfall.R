@@ -1,12 +1,13 @@
 
 # 
-setwd("projects/snowfall")
+# setwd("projects/snowfall")
 # setwd("/")
 options(scipen=999)
-getwd()
+# getwd()
 
 # install.packages('knitr')
-# install.packages('rmarkdown')
+install.packages('rmarkdown')
+
 library(knitr)
 library(rmarkdown)
 
