@@ -28,6 +28,6 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add snowfall_data.html
+          git add docs
           git commit -m "snowfall" || echo "No changes to commit"
           git push origin || echo "No changes to commit"-
