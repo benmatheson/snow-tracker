@@ -45,6 +45,8 @@ install.packages('gghighlight')
 install.packages('plotly')
 install.packages('knitr')
 install.packages('httr')
+install.packages("curl")
+
 
 
 library(tidyr)
